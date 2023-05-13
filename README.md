@@ -2,7 +2,7 @@
 
 ## Technologies
 
-- **React ( Functional Component )**
+- **React**
 - **Tailwind**
 - **Material UI**
 - **GraphQL**
