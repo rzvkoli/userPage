@@ -7,8 +7,6 @@
 - **Material UI**
 - **GraphQL**
 
-### [Live Demo](https://userpage-xi.vercel.app/)
-
 ## Preview
 ### Desktop Mode
 
